@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://codewithjk.github.io/Expense-tracker",
+  "homepage": "https://codewithjk.github.io/expense-tracker",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",

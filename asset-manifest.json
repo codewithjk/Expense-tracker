@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/expense-tracker/static/css/main.7107c472.css",
+    "main.js": "/expense-tracker/static/js/main.18298b0a.js",
+    "static/media/money.jpg": "/expense-tracker/static/media/money.3e3bf6beff4c9b79c0d4.jpg",
+    "index.html": "/expense-tracker/index.html",
+    "main.7107c472.css.map": "/expense-tracker/static/css/main.7107c472.css.map",
+    "main.18298b0a.js.map": "/expense-tracker/static/js/main.18298b0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7107c472.css",
+    "static/js/main.18298b0a.js"
+  ]
+}
